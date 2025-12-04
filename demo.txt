@@ -2,3 +2,6 @@
 
 #Merged & Pushed.
 #Lines added in main branch, commited on Remote Repo
+
+#Pulled locally.
+#Line added remotely while user-A editing this file in local repo
